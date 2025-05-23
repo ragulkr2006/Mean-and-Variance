@@ -1,3 +1,7 @@
+# Name : RAGUL K R 
+
+# Reg No : 212224240123
+
 #  Mean and variance of a discrete  distribution
 
 
